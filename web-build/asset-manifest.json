@@ -1,0 +1,28 @@
+{
+  "files": {
+    "app.js": "/static/js/app.a65b31da.chunk.js",
+    "app.js.map": "/static/js/app.a65b31da.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.27401809.js",
+    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
+    "static/js/2.54a248ca.chunk.js": "/static/js/2.54a248ca.chunk.js",
+    "static/js/2.54a248ca.chunk.js.map": "/static/js/2.54a248ca.chunk.js.map",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.54a248ca.chunk.js.LICENSE.txt": "/static/js/2.54a248ca.chunk.js.LICENSE.txt",
+    "static/media/bamot_misparaim_memunaot-1.jpg": "/static/media/bamot_misparaim_memunaot-1.070eb8a5.jpg",
+    "static/media/boom-lift-icon.png": "/static/media/boom-lift-icon.ae654bca.png",
+    "static/media/farm-icon.png": "/static/media/farm-icon.1d38b208.png",
+    "static/media/icon.png": "/static/media/icon.c768c5e6.png",
+    "static/media/lift-slab-icon.png": "/static/media/lift-slab-icon.6d397702.png",
+    "static/media/warehouse-icon.png": "/static/media/warehouse-icon.436bae96.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.27401809.js",
+    "static/js/2.54a248ca.chunk.js",
+    "static/js/app.a65b31da.chunk.js"
+  ]
+}
